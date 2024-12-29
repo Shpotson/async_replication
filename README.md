@@ -32,19 +32,27 @@ DAG `create_mart` runs daily
 
 ## Also:
 
-Postgres credentials:
+### Postgres credentials:
 
-**DBNAME** = `orders-db`
-**USER** = `test`
-**PASSWORD** = `test`
-**PORT** = `5400`
-**HOST** = `localhost`
+* *DBNAME* = `orders-db`
 
-MSSQL credentials:
+* *USER* = `test`
 
-**SERVER** = `localhost`
-**PORT** = `1433`
-**DATABASE** = `master`
-**USERNAME** = `SA`
-**PASSWORD** = `b90cf1ef-6535-4d32-81cd-278e306dd25953ACE3C0-5985-4E7A-B86B-3314B271FFE4#`
+* *PASSWORD* = `test`
+
+* *PORT* = `5400`
+
+* *HOST* = `localhost`
+
+### MSSQL credentials:
+
+* *SERVER* = `localhost`
+
+* *PORT* = `1433`
+
+* *DATABASE* = `master`
+
+* *USERNAME* = `SA`
+
+* *PASSWORD* = `b90cf1ef-6535-4d32-81cd-278e306dd25953ACE3C0-5985-4E7A-B86B-3314B271FFE4#`
 
