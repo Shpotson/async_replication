@@ -1,0 +1,10 @@
+psycopg2-binary~=2.9.9
+attrs~=24.2.0
+distro~=1.9.0
+wheel~=0.43.0
+pysocks~=1.7.1
+protobuf~=4.25.5
+cryptography~=42.0.8
+redis~=5.2.1
+faker~=33.1.0
+pyodbc~=5.2.0
